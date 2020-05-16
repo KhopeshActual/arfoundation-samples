@@ -25,3 +25,7 @@ MonoBehaviour:
     m_Name: Cube
     m_Entries:
     - {fileID: 11400000, guid: 124f01f93d53b4964a2d0b5319c54392, type: 3}
+  - m_GuidLow: 4958748839765461828
+    m_GuidHigh: 13249594673077373351
+    m_Name: Gun
+    m_Entries: []

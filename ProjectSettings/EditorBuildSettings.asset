@@ -59,7 +59,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/HumanSegmentation/HumanSegmentationImages.unity
     guid: ed5207d50697d40d688249cd6c59608b
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/ImageTracking/ImageTracking.unity
     guid: e0b018a3c3b5cfd4c8e316706ec0a18c
   - enabled: 0
@@ -102,7 +102,9 @@ EditorBuildSettings:
     path: Assets/Scenes/UX/SampleUXScene.unity
     guid: 3b42d67a72bbc4004bf713db0e312326
   m_configObjects:
-    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2d5fb8e61571b4e3897f221189089fd6,
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 4dd5ecf2cdd24054c956022f53436e87,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 8f25ba139c924e64b8ad9200b9834db6,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e2f869774b12e400996eb546603602e3,
       type: 2}
